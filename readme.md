@@ -1,20 +1,6 @@
-# Digital Skills for Researchers: Coursebook
+# Coursebook
 
-The live version of this coursebook can be viewed [here](http://digital-skills-for-researchers.github.io/coursebook/)
-
-
-
-## Community
-
-You can find us on [Slack](https://digi-research-skills.slack.com/)!
-
-Email one of the team to request an invite:
-
-- Fabiana Kubke [f.kubke@auckland.ac.nz](mailto:"f.kubke@auckland.ac.nz")
-- Tanya Gray [t.gray@aucklanduni.ac.nz](mailto:"t.gray@aucklanduni.ac.nz")
-
-
-
+The live version of this coursebook can be viewed [here](http://neurohackweek.github.io/coursebook/)
 
 
 ## Contributions
@@ -34,3 +20,8 @@ If you have many changes to submit please:
 
 Please keep pull requests small to help us merge your suggestions more efficiently.
 
+
+## License:
+
+The template for this coursebook is based on the
+[Coursebook](https://github.com/digital-skills-for-researchers/coursebook) developed by Digital Skills for Researchers, licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/)  

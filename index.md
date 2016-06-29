@@ -1,12 +1,11 @@
 ---
-title: Digital Skills for Researchers
+title: Neurohackweek
 layout: index
 ---
 
+# Neurohackweek: coursebook
 
-# Digital Skills and Scholarship for Researchers
-
-This course is designed to teach skills and scholarship at the leading edge of digital best practice for science research.
+This coursebook includes
 
 All content is provided in a modular structure, organised by topic. The content can be explored as discrete [modules][], in the order suggested in our [calendar][], or even in [your own creative way][coursebuilder].
 
@@ -21,8 +20,6 @@ All content is provided in a modular structure, organised by topic. The content 
 
 ## Build Custom Course
 [Click here][coursebuilder]
-
-
 
 
 [modules]: {{ site.baseurl }}/modules
